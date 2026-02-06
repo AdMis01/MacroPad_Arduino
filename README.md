@@ -12,4 +12,11 @@ Output in Serial Monitor
 
 ## Second version is for programing is as an keyboard
 
-[![Watch]()](https://youtube.com/shorts/22TXYEjmoDc)
+First key – open the video on YouTube.
+Second key – play/pause the video.
+Third key – open a new tab.
+Fourth key – full screen video.
+
+You can program each key however you want.
+
+https://github.com/user-attachments/assets/b18be2de-9f26-4274-aaa8-ed287c764a34
