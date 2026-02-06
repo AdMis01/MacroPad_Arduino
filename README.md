@@ -11,3 +11,5 @@ Output in Serial Monitor
 <img width="460" height="380" alt="serialMonitor" src="https://github.com/user-attachments/assets/22011fc9-5a5a-4ce6-b78c-64571b24f3db" />
 
 ## Second version is for programing is as an keyboard
+
+[![Watch]()](https://youtube.com/shorts/22TXYEjmoDc)
